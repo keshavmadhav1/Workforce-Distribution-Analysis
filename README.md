@@ -103,15 +103,6 @@ Workforce-Distribution-Analysis/
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshots inside the **Images** folder and display them here.
-
-```markdown
-![Dashboard](Images/Dashboard.png)
-```
-
----
 
 ## 🚀 Future Enhancements
 
