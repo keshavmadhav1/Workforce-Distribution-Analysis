@@ -59,7 +59,7 @@ The **Workforce Distribution Analysis** project provides an interactive dashboar
 ```text
 Workforce-Distribution-Analysis/
 │
-├──  Query
+├── Query
 │   └── Queries using python and sql
 │
 ├── reports
