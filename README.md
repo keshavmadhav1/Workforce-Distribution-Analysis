@@ -1,6 +1,7 @@
 
 # 📊 Workforce Distribution Analysis
 ![Dashboard](Workforce_Distribution_Analysis-f-pages-images-1.jpg)
+![Dashboard](Workforce_Distribution_Analysis-f-pages-images-2.jpg)
 
 A comprehensive **HR Analytics** and **Business Intelligence** project that analyzes workforce distribution across departments, job roles, locations, and demographic categories. This dashboard transforms raw employee data into actionable insights, enabling organizations to better understand workforce composition, improve resource allocation, and support strategic decision-making.
 
